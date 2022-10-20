@@ -21,6 +21,10 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <img alt="rocketpay" src=".github/project.png" width="100%">
 </p>
 
+
+## Link para acessar a aplicação: https://explorer-lab1.vercel.app/
+
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
